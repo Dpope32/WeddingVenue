@@ -1,1 +1,3 @@
 # WeddingVenue
+
+#WeddingVenue.java is a Java project that aims to help individuals who own a WeddingVenue schedule their wedding events with users. I chose this application to help a family member who is looking into setting up her own business. The application provides a range of features, including vendor management, customer management, and dynamic pricing. The goal is to make wedding planning an efficient and smooth experience for the user while also capitalizing on market demands like seasonal pricing. The project utilizes the Observer, Singleton, and Decorator design patterns to enhance its functionality
